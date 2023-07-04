@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/akshitabajaj03/quest.git/static/css/main.a347a0a6.css",
-    "main.js": "/akshitabajaj03/quest.git/static/js/main.8b38d805.js",
-    "index.html": "/akshitabajaj03/quest.git/index.html",
-    "main.a347a0a6.css.map": "/akshitabajaj03/quest.git/static/css/main.a347a0a6.css.map",
-    "main.8b38d805.js.map": "/akshitabajaj03/quest.git/static/js/main.8b38d805.js.map"
+    "main.css": "/quest/static/css/main.a347a0a6.css",
+    "main.js": "/quest/static/js/main.8b38d805.js",
+    "index.html": "/quest/index.html",
+    "main.a347a0a6.css.map": "/quest/static/css/main.a347a0a6.css.map",
+    "main.8b38d805.js.map": "/quest/static/js/main.8b38d805.js.map"
   },
   "entrypoints": [
     "static/css/main.a347a0a6.css",
