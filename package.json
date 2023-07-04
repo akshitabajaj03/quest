@@ -1,7 +1,7 @@
 {
   "name": "quest",
   "version": "0.1.0",
-  "homepage": "https://github.com/akshitabajaj03/quest.git",
+  "homepage": "https://akshitabajaj03.github.io/quest",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
